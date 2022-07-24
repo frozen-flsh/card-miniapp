@@ -1,0 +1,37 @@
+<!--index.wxml-->
+
+<view class="title">
+  知识卡片
+  </view>
+<view id="titletwo">
+  two hello world 
+</view>
+<view id="titletwo">
+  计数：{{counter}}
+</view>
+<button class="btn" bindtap="clickCounterButton">这是个按钮</button>
+<checkbox class="checkA">A</checkbox>
+<checkbox class="checkB">B</checkbox>
+<checkbox class="checkC">C</checkbox>
+<view>
+a1b2c3
+</view>
+<view>
+a1b2c3
+</view>
+<view>
+a1b2c3
+</view>
+<view>
+a1b2c3
+</view>
+<view>
+a1b2c3
+</view>
+<view>
+a1b2c3
+</view>
+<view>
+a1b2c3
+</view>
+<button class="z">赵世博</button>

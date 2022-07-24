@@ -1,0 +1,28 @@
+/**index.wxss**/
+Page{
+  text-align: center;
+}
+.title{
+  color:blue;
+  font-size: 200%
+}
+#titletwo{
+  color:chocolate;
+  font-size:60%;
+}
+.btn{
+  color:green;
+}
+.z{
+  font-size:130%;
+  color:lightblue;
+}
+.checkA{
+  color:red;
+}
+.checkB{
+  color:darkorange;
+}
+.checkC{
+  color:green;
+}

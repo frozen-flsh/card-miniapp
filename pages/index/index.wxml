@@ -4,7 +4,7 @@
   知识卡片
   </view>
 <view id="titletwo">
-  two hello world 
+  frozen-flsh/zoominet-wxcloudrun-springboot
 </view>
 <view id="titletwo">
   计数：{{counter}}
